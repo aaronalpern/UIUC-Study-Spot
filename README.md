@@ -1,3 +1,7 @@
+This is a basic frontend for StudyPulse. An application that is being built with the support of UIUC that is being kept private for now as it may be deployed into the offical UIUC mobile app. 
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
